@@ -145,12 +145,15 @@ Matkul  : Pemrograman Web
 
 **Menambahkan Content Artikel**
 - Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
-![q30](https://user-images.githubusercontent.com/81581236/115283630-d44d1880-a175-11eb-8e07-73254a7fbb8e.PNG)
+![ss29](https://user-images.githubusercontent.com/46867774/161629016-104d8281-f7cb-445c-b14f-533b9da16e24.png)
+
 
 - Kemudian tambahkan CSS.
-![q31](https://user-images.githubusercontent.com/81581236/115283765-ff376c80-a175-11eb-93bc-0db0e678f7e9.PNG)
+![ss30](https://user-images.githubusercontent.com/46867774/161629018-83ecece3-6d38-4fd3-b018-ea069c4d7bbb.png)
 
-![q32](https://user-images.githubusercontent.com/81581236/115283838-1bd3a480-a176-11eb-93e8-1c4026c83098.PNG)
+- Hasilnya :
+
+
 
 
 
