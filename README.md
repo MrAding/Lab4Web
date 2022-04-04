@@ -53,17 +53,20 @@ Matkul  : Pemrograman Web
 
 
 - Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama home.html, dan file css dengan nama style.css.
-![q7](https://user-images.githubusercontent.com/81581236/115280873-98fd1a80-a172-11eb-9d1b-1d362b350853.PNG)
+![ss9](https://user-images.githubusercontent.com/46867774/161606252-73a0bb93-ef3f-4639-8e55-ebf80b981b83.png)
+
 
 - Kemudian buat kerangka layout dengan semantics element seperti berikut
 ![q8](https://user-images.githubusercontent.com/81581236/115280972-b4682580-a172-11eb-97e5-a115b386e24b.PNG)
 
 - Kemudian tulis kode berikut
 
-![q10](https://user-images.githubusercontent.com/81581236/115281067-ce096d00-a172-11eb-8036-ec4e490170f3.PNG)
+![ss11](https://user-images.githubusercontent.com/46867774/161607911-42c0fa87-cacc-4606-baca-c37f17fb78d7.png)
+
 
 - Kemudian buka browser dan lihat hasilnya.
-![q11](https://user-images.githubusercontent.com/81581236/115281166-e7121e00-a172-11eb-9b34-3248b8c5dc6e.PNG)
+![ss12](https://user-images.githubusercontent.com/46867774/161607938-3de14c80-5507-45b1-8120-4051a0320b3c.png)
+
 
 - Kemudian tambahkan kode CSS untuk membuat layoutnya
 ![q12](https://user-images.githubusercontent.com/81581236/115281584-6142a280-a173-11eb-9931-00929605a5e0.PNG)
