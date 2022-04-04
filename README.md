@@ -89,26 +89,32 @@ Matkul  : Pemrograman Web
 **Membuat Hero Panel**
 - Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
 
-![q16](https://user-images.githubusercontent.com/81581236/115281994-dc0bbd80-a173-11eb-9078-4cc0d3bd8a3a.PNG)
+![ss17](https://user-images.githubusercontent.com/46867774/161613278-74a59bf5-787a-40c1-adb0-56389d54ed71.png)
 
-![q17](https://user-images.githubusercontent.com/81581236/115282048-eb8b0680-a173-11eb-96b6-e001503ba3db.PNG)
+
+![ss18](https://user-images.githubusercontent.com/46867774/161613307-3f65de78-1d9b-4c31-8905-7a77804b4c7f.png)
+
 
 - Lalu cek hasilnya.
-![q18](https://user-images.githubusercontent.com/81581236/115282135-06f61180-a174-11eb-9871-13ea8757b255.PNG)
+![ss19](https://user-images.githubusercontent.com/46867774/161613430-b1ff1dd6-9c45-4ac5-9b68-de093b70c7de.png)
+
 
 
 **Membuat Layout Main dan Sidebar**
 - Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 
-![qqq](https://user-images.githubusercontent.com/81581236/115282354-55a3ab80-a174-11eb-983e-0863c59e257d.PNG)
+![ss20](https://user-images.githubusercontent.com/46867774/161615880-6c10411a-3068-474d-a445-32d563fd1123.png)
+
 
 **Membuat Sidebar Widget**
 - Kemudian selanjutnya menambahkan element lain dalam sidebar.
 
-![q20](https://user-images.githubusercontent.com/81581236/115282477-75d36a80-a174-11eb-8703-90da6ce1b488.PNG)
+![ss21](https://user-images.githubusercontent.com/46867774/161615913-b7bd3f03-9587-41e3-af72-47af984415e2.png)
+
 
 - dan tambahkan CSS
-![q22](https://user-images.githubusercontent.com/81581236/115282580-913e7580-a174-11eb-9787-497f104922b4.PNG)
+![ss22](https://user-images.githubusercontent.com/46867774/161616079-14e1e9e5-451b-4ebb-9ada-94e85193b3b1.png)
+
 
 - dAN JALANKAN KEMBALI Web Borwsernya
 
