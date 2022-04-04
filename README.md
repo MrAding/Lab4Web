@@ -155,6 +155,12 @@ Matkul  : Pemrograman Web
 ![ss31](https://user-images.githubusercontent.com/46867774/161630123-09a68c63-3f52-492c-a012-cb2271add120.png)
 
 
+# Pertanyaan & Tugas
+**1. Tambahkan Layout untuk menu About**
+- buat single layout yang berisi deskripsi, portofolio, dll.
+**2. Tambahkan Layout untuk menu Contact**
+- yang berisi form isian : Nama, Email, Message, dll.
+
 
 
 
