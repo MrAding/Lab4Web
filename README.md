@@ -156,10 +156,12 @@ Matkul  : Pemrograman Web
 
 
 # Pertanyaan & Tugas
-**1. Tambahkan Layout untuk menu About**
+```
+1. Tambahkan Layout untuk menu About**
 - buat single layout yang berisi deskripsi, portofolio, dll.
-**2. Tambahkan Layout untuk menu Contact**
+2. Tambahkan Layout untuk menu Contact**
 - yang berisi form isian : Nama, Email, Message, dll.
+```
 
 
 
