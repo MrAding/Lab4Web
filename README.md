@@ -65,23 +65,26 @@ Matkul  : Pemrograman Web
 
 
 - Kemudian buka browser dan lihat hasilnya.
-![ss12](https://user-images.githubusercontent.com/46867774/161607938-3de14c80-5507-45b1-8120-4051a0320b3c.png)
+![ss12](https://user-images.githubusercontent.com/46867774/161608763-547eac51-aeea-4101-9d9f-d346c52d514d.png)
 
 
 - Kemudian tambahkan kode CSS untuk membuat layoutnya
-![q12](https://user-images.githubusercontent.com/81581236/115281584-6142a280-a173-11eb-9931-00929605a5e0.PNG)
+![ss13](https://user-images.githubusercontent.com/46867774/161610310-bf62e655-f39e-4e13-be45-71e25cb42684.png)
+
 
 - Kemudian lihat hasilnya pada browser
-![q13](https://user-images.githubusercontent.com/81581236/115281727-82a38e80-a173-11eb-9847-0efa6f89b128.PNG)
+![ss14](https://user-images.githubusercontent.com/46867774/161611094-1f83c1e2-cebb-4921-9f2c-8d940b5ca2b2.png)
 
 
 
 **Membuat Navigasi**
 - Kemudian selanjutnya mengatur navigasi
-![q14](https://user-images.githubusercontent.com/81581236/115281805-99e27c00-a173-11eb-9c99-3223e5e87ede.PNG)
+![ss15](https://user-images.githubusercontent.com/46867774/161611131-fc5cc94e-7def-4b14-ade0-29565fee935f.png)
+
 
 - kemudian cek hasilnya
-![q15](https://user-images.githubusercontent.com/81581236/115281883-b383c380-a173-11eb-9359-7d000564e735.PNG)
+![ss16](https://user-images.githubusercontent.com/46867774/161611203-4b60d4bc-1e87-439a-b3d0-2921e0910be9.png)
+
 
 **Membuat Hero Panel**
 - Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
