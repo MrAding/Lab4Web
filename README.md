@@ -135,9 +135,12 @@ Matkul  : Pemrograman Web
 
 
 - Kemudian tambahkan CSS
-![q27](https://user-images.githubusercontent.com/81581236/115283394-7f110700-a175-11eb-9bbc-d3842c8d813b.PNG)
+![ss27](https://user-images.githubusercontent.com/46867774/161627180-7047a19b-99ea-4832-866d-47089efc22b7.png)
 
-![q28](https://user-images.githubusercontent.com/81581236/115283490-9e0f9900-a175-11eb-9ad1-0ab03aa2fbb1.PNG)
+
+- Hasilnya :
+![ss28](https://user-images.githubusercontent.com/46867774/161627156-1bb7b735-4a57-4e93-9005-bc44860d81f3.png)
+
 
 
 **Menambahkan Content Artikel**
