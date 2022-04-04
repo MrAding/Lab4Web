@@ -116,19 +116,23 @@ Matkul  : Pemrograman Web
 ![ss22](https://user-images.githubusercontent.com/46867774/161616079-14e1e9e5-451b-4ebb-9ada-94e85193b3b1.png)
 
 
-- dAN JALANKAN KEMBALI Web Borwsernya
+- Jalankan kembali Web Browsernya
+![ss23](https://user-images.githubusercontent.com/46867774/161624025-d82e60f7-b333-4a9a-9c69-47bdeb3143cf.png)
 
 
 **Mengatur Footer**
 - Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
 
 
-![q24](https://user-images.githubusercontent.com/81581236/115283010-0b6efa00-a175-11eb-8783-886ad5f56ccc.PNG)
+![ss24](https://user-images.githubusercontent.com/46867774/161624070-32457a1a-7bfd-481e-a217-15b50250a284.png)
 
-![q25](https://user-images.githubusercontent.com/81581236/115283050-17f35280-a175-11eb-9095-0a14aabcecc7.PNG)
+- Hasilnya :
+![ss25](https://user-images.githubusercontent.com/46867774/161624278-8eeef8e2-491b-41e9-b40a-73ed67169fee.png)
 
-- Menambahkan Elemen lainnya pada Main Content
-![q26](https://user-images.githubusercontent.com/81581236/115283156-35c0b780-a175-11eb-99c9-4524155f4cdb.PNG)
+- Tambahkan kode berikut pada ```element/section main``` dalam dokumen HTML.
+![ss26](https://user-images.githubusercontent.com/46867774/161624369-c1c61c7b-a643-456e-b55c-861d03bf05a1.png)
+
+
 
 - Kemudian tambahkan CSS
 ![q27](https://user-images.githubusercontent.com/81581236/115283394-7f110700-a175-11eb-9bbc-d3842c8d813b.PNG)
