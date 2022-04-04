@@ -5,39 +5,47 @@ Tugas Praktikum 4 - Pertemuan 5
 **Langkah-langkah Praktikum**
 - persipkan membuat dokumen HTML dengan nam file Lab4_box.html seperti dibawah:
 
-![q0](https://user-images.githubusercontent.com/81581236/115279598-20e22500-a171-11eb-8517-0020dca3418b.PNG)
+![ss1](https://user-images.githubusercontent.com/46867774/161603732-4c9330b2-e3d2-47d9-84a4-f0c8e948ea84.png)
+
 
 **Membuat Box Element**
 - Membuat tambahan kode untuk membuat box element dengan tag div seperti berikut.
-![q1](https://user-images.githubusercontent.com/81581236/115279741-4a02b580-a171-11eb-8a1a-28bb3e2d548e.PNG)
+![ss2](https://user-images.githubusercontent.com/46867774/161603781-19691161-3d89-4d11-85e8-6e5cec29e68d.png)
+
 
 **CSS Float Property**
 - Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut.
 
-![q2](https://user-images.githubusercontent.com/81581236/115279933-83d3bc00-a171-11eb-873e-32f14e5b955c.PNG)
+![ss3](https://user-images.githubusercontent.com/46867774/161603801-88b5b38c-e859-4ea2-a175-4ade64ceee2b.png)
+
 
 - Kemudian buka browser untuk melihat hasilnya.
 
-![q3](https://user-images.githubusercontent.com/81581236/115280004-9cdc6d00-a171-11eb-9554-2864180fa32d.PNG)
+![ss4](https://user-images.githubusercontent.com/46867774/161603824-cb5e8283-df56-43b9-bd76-c71ad313d1e3.png)
+
 
 **Mengatur Clearfix Element**
 - **Clearfix** digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.
 - Tambahkan element div lainnya seteleah div3 seperti berikut
 
-![q4](https://user-images.githubusercontent.com/81581236/115280168-d1502900-a171-11eb-90be-e363f9fdae9b.PNG)
+![ss5](https://user-images.githubusercontent.com/46867774/161603870-225e579d-8fb0-4a02-b56a-8570e980d33a.png)
+
 
 - Kemudian atur property clear pada CSS, seperti berikut.
-![qq](https://user-images.githubusercontent.com/81581236/115280515-37d54700-a172-11eb-8eff-3709bc50901f.PNG)
+![ss6](https://user-images.githubusercontent.com/46867774/161603893-91aeae10-d7cd-4492-8226-55a9fa8f0ad0.png)
+
 
 - Selanjutnya buka browser dan refresh kembali.
-![q5](https://user-images.githubusercontent.com/81581236/115280609-52a7bb80-a172-11eb-8eb0-928995fcfb3e.PNG)
+![ss7](https://user-images.githubusercontent.com/46867774/161603937-4b12ec6e-098e-4632-89fc-d31ca3b86a80.png)
+
 
 - Lakukan eksperimen terhadap penggunaan property clear dengan nilai lainnya (left, both, right), dan amati perubahannya.
 
 
 **Membuat Layout Sederhana**
 - Kita akan membuat layout web sederhana seperti gambar berikut.
-![q6](https://user-images.githubusercontent.com/81581236/115280755-7a971f00-a172-11eb-8c42-ca019a008e2e.PNG)
+![ss8](https://user-images.githubusercontent.com/46867774/161603965-44b0331c-7a81-4fb2-884c-ef1f79c57f86.png)
+
 
 - Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama home.html, dan file css dengan nama style.css.
 ![q7](https://user-images.githubusercontent.com/81581236/115280873-98fd1a80-a172-11eb-9d1b-1d362b350853.PNG)
