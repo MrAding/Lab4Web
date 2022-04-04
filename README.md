@@ -163,7 +163,19 @@ Matkul  : Pemrograman Web
 - yang berisi form isian : Nama, Email, Message, dll.
 ```
 
+# Menambahkan Layout pada menu About
+- Membuat dokumen html dengan nama about.html sebagai berikut.
 
+
+- Lalu menambahkan CSS.
+
+
+# Menambahkan Layout pada menu Contact
+- Membuat dokumen html dengan nama kontak.html sebagai berikut.
+
+- Lalu menambahkan CSS.
+
+- Hasilnya saat menekan menu Contact akan dialihkan ke halaman berikut:
 
 
 
