@@ -166,8 +166,16 @@ Matkul  : Pemrograman Web
 # Menambahkan Layout pada menu About
 - Membuat dokumen html dengan nama about.html sebagai berikut.
 
+![ss32 about html](https://user-images.githubusercontent.com/46867774/161827471-df96020a-198e-4695-a966-edd7d680621f.png)
+
 
 - Lalu menambahkan CSS.
+
+![ss33 css about](https://user-images.githubusercontent.com/46867774/161827506-1c5bde02-e06e-46fd-b447-cf3ce57fd9cc.png)
+
+- Tampilan pada menu ```About.html```.
+
+![ss34 menu about](https://user-images.githubusercontent.com/46867774/161827797-3eb44345-3fcd-462e-9336-636976a0eaaf.png)
 
 
 # Menambahkan Layout pada menu Contact
