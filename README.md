@@ -164,7 +164,7 @@ Matkul  : Pemrograman Web
 ```
 
 # Menambahkan Layout pada menu About
-- Membuat dokumen html dengan nama about.html sebagai berikut.
+- Membuat dokumen html dengan nama ```about.html``` sebagai berikut.
 
 ![ss32 about html](https://user-images.githubusercontent.com/46867774/161827471-df96020a-198e-4695-a966-edd7d680621f.png)
 
@@ -179,18 +179,25 @@ Matkul  : Pemrograman Web
 
 
 # Menambahkan Layout pada menu Contact
-- Membuat dokumen html dengan nama kontak.html sebagai berikut.
+- Membuat dokumen html dengan nama ```contact.html``` sebagai berikut.
+
+![ss35 menu contact](https://user-images.githubusercontent.com/46867774/161828590-2caea2fe-e400-425e-b57a-168f210cad23.png)
+
 
 - Lalu menambahkan CSS.
 
+![ss36 css contact](https://user-images.githubusercontent.com/46867774/161828628-68c10cd7-e1b6-4773-ba92-d47dc9b6ad6c.png)
+
+
 - Hasilnya saat menekan menu Contact akan dialihkan ke halaman berikut:
 
+![ss37 menu contact](https://user-images.githubusercontent.com/46867774/161828728-8f2af614-3ad4-4adf-baf7-e7211f6a29af.png)
 
 
 
 
 
 
-
+**Agar dapat mengalihkan ke halaman selanjutnya seperti (home, about, contact) anda harus membuat file dalam 1 folder**
 
 
